@@ -31,8 +31,8 @@ def redditData():
 
     # username and password
     data = {'grant_type': 'password',
-            'username': 'fbkfbkhhh',
-            'password': 'kaposztasalata0123'}
+            'username': '',
+            'password': ''}
     headers = {'User-Agent': 'MyAppBot01'}
 
     # send our request for an OAuth token
